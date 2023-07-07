@@ -11,7 +11,7 @@
 
   <div id="badges">
     <a href="mailto:rodimuskinaleksandr135@gmail.com" target="_blank">
-      <img src="![image](https://github.com/RodimushkinAlexandr/RodimushkinAlexandr/assets/gmail)" width="40" height="40" alt="gmail.com" />
+      <img src="/assets/icons/gmail.png" width="40" height="40" alt="gmail.com" />
     </a>
    <a href="https://www.linkedin.com/public-profile/settings?trk=public-profile" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
