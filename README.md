@@ -1,13 +1,17 @@
 
-# Привет, меня зовут Александр!
+# Hello, my name is Alexandr!
 
-<!--
-### :man_technologist: Обо мне:
 
- Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы, параллельно с этим я стал Старшим студентом на курсе и помогаю новичкам осваивать веб-разработку!
- -->
+### :man_technologist: About me:
 
-### 🤝 Как связаться со мной:
+I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My main goals are to acquire new skills and
+Professional Development. I am a hardworking person so I am ready
+spend a lot of time learning new things and doing
+work. Every project I create is my motivation.
+I am not scare of new tasks and always finish anything I started.
+
+
+### 🤝 How to contact me:
 
   <div id="badges">
     <a href="mailto:rodimuskinaleksandr135@gmail.com" target="_blank">
@@ -26,7 +30,7 @@
 
 ---
 
-### 💻 Технологии:
+### 💻 Technology Stack:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40"   height="40"/>&nbsp
@@ -40,7 +44,7 @@
 </div>
 
 ---
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub Stats:
 
 <table>
   <tr>
@@ -55,7 +59,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
