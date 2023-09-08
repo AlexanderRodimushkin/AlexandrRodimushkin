@@ -4,12 +4,6 @@
 
 ### :man_technologist: About me:
 
-I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My main goals are to acquire new skills and
-Professional Development. I am a hardworking person so I am ready
-spend a lot of time learning new things and doing
-work. Every project I create is my motivation.
-I am not scare of new tasks and always finish anything I started.
-
 
 ### 🤝 How to contact me:
 
