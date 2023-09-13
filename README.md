@@ -3,7 +3,7 @@
 
 
 ### :man_technologist: About me:
-
+I am a Frontend Middle Developer with over 1.5 year of experience in developing modern web applications. My experience includes working on a variety of projects, from online stores to administrative panels. I specialize in creating responsive and cross-browser experiences using Vie and Pinia. My goal is not only to solve complex problems, but also to constantly improve in the world of front-end development. I am confident in my skills and am always willing to contribute to the team's success.​
 
 ### 🤝 How to contact me:
 
