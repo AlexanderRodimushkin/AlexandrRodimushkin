@@ -11,7 +11,7 @@ I am a Frontend Middle Developer with over 1.5 year of experience in developing 
     <a href="mailto:rodimuskinaleksandr135@gmail.com" target="_blank">
       <img src="/assets/icons/gmail.png" width="40" height="40" alt="gmail.com" />
     </a>
-   <a href="https://www.linkedin.com/public-profile/settings?trk=public-profile" target="_blank">
+   <a href="[https://www.linkedin.com/public-profile/settings?trk=public-profile](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D1%80%D0%BE%D0%B4%D0%B8%D0%BC%D1%83%D1%88%D0%BA%D0%B8%D0%BD-0a06b7245?trk=contact-info)" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/RodimushkinAlexander" target="_blank">
@@ -36,12 +36,15 @@ I am a Frontend Middle Developer with over 1.5 year of experience in developing 
   <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="babel" alt="babel" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vue" alt="vue" width="40" height="40"/>&nbsp
+  <img src="/assets/icons/vite-svgrepo-com.svg" title="vite" alt="vite" width="40" height="40"/>&nbsp
+  <img src="/assets/icons/pinia-seeklogo.com.svg" title="vite" alt="vite" width="40" height="40"/>&nbsp  
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="40" height="40"/>&nbsp;
+  <img src="/assets/icons/icons8-настройки-api-64.png" title="rest-api" alt="rest-api" width="40" height="40"/>&nbsp  
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="nestjs" alt="nestjs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="babel" alt="babel" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
 
 ---
